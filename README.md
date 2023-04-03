@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdAshrafUllah?tab=repositories](https://github.com/MdAshrafUllah?tab=repositories)
 
-- 💬 Ask me about **Website Design, Flutter Application**
+- 💬 Ask me about **Website Design, Flutter**
 
 - 📫 How to reach me **mdashrafullah47@gmail.com**
 
