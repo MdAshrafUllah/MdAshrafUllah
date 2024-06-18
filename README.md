@@ -1,6 +1,6 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1269583105494446080/1678058022/1500x500)
 <h1 align="center">Hi 👋, I'm Md Ashraf Ullah</h1>
-<h3 align="center">A passionate web and mobile frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate mobile and frontend developer from Bangladesh.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
