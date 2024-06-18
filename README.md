@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mdashrafullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashrafullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdashrafullah" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="mdashrafullah" height="30" width="30" /></a>
 <a href="https://fb.com/mdashrafullahshafayet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdashrafullahshafayet" height="30" width="40" /></a>
 <a href="https://instagram.com/md_ashraf_ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_ashraf_ullah" height="30" width="40" /></a>
 <a href="https://www.behance.net/mdashrafullah9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdashrafullah9" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40"height="35"/></a>
 <a href="https://www.maxon.net/en/cinema-4d" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" alt="cinema-4d" width="40"height="40"/></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="cinema-4d" width="38"height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="cinema-4d" width="35"height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="cinema-4d" width="35"height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer"> <img style="border-radius: 5px; border: 2px solid rgba(255, 38, 190, 100);" src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" alt="figma" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -61,6 +61,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdashrafullah&show_icons=true&locale=en" alt="mdashrafullah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdashrafullah&" alt="mdashrafullah" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdashrafullah&label=Profile%20views&color=0e75b6&style=flat" alt="mdashrafullah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdashrafullah" alt="mdashrafullah" /></a></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdashrafullah&label=Total%20Visitor&color=blueviolet&style=for-the-badge" alt="mdashrafullah" /> </p>
