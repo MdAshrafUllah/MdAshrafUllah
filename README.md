@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdAshrafUllah?tab=repositories](https://github.com/MdAshrafUllah?tab=repositories)
 
-- 💬 Ask me about **Flutter, UI/UX, Website Design**
+- 💬 Ask me about **Flutter**, **UI/UX**, **Website Design**.
 
 - 📫 How to reach me **mdashrafullah47@gmail.com**
 
-- ⚡ Fun fact **I love traveling, video editing, and motion graphics.**
+- ⚡ Fun fact I love **traveling**, **video editing**, and **motion graphics**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
