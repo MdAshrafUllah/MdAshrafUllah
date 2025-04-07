@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Mobile Application developments.
 
-- 🌱 I’m currently learning **App Development**, **Python**
+- 🌱 I’m currently learning **App Development**, **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdAshrafUllah?tab=repositories](https://github.com/MdAshrafUllah?tab=repositories)
 
