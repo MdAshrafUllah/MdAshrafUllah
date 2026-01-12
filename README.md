@@ -33,7 +33,7 @@
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" width="40"height="40"/></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40"height="35"/></a>
 <a href="https://www.maxon.net/en/cinema-4d" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" alt="cinema-4d" width="40"height="40"/></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="cinema-4d" width="38"height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/250px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" width="38"height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="cinema-4d" width="35"height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer"> <img style="border-radius: 5px; border: 2px solid rgba(255, 38, 190, 100);" src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" alt="figma" width="40" height="40"/></a>
@@ -52,7 +52,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" alt="git" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v8d1d0686aef3ca9671e026a6ce14af5c61b805aabef7c385b0e34494acbfc654/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/></a> 
-<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/3890px-PhpMyAdmin_logo.svg.png" alt="firebase" width="40" height="30"/></a> 
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="40" height="30"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
 
