@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on mobile application development.
 
-- 🌱 I’m currently learning **App Development** and **laravel**
+- 🌱 I’m currently learning **Advanced App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdAshrafUllah?tab=repositories](https://github.com/MdAshrafUllah?tab=repositories)
 
@@ -30,8 +30,6 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" alt="premiere" width="40"height="40"/></a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" width="40"height="40"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1280px-Blender_logo_no_text.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="blender" width="40"height="35"/></a>
-<a href="https://www.maxon.net/en/cinema-4d" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" alt="cinema-4d" width="40"height="40"/></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/250px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" width="38"height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="cinema-4d" width="35"height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
@@ -50,7 +48,7 @@
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/020/975/579/non_2x/wordpress-logo-wordpress-icon-transparent-free-png.png" alt="flutter" width="40" height="40"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/958/438/png-transparent-xampp-hd-logo.png" alt="git" width="40" height="40"/></a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v8d1d0686aef3ca9671e026a6ce14af5c61b805aabef7c385b0e34494acbfc654/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/></a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vdc800838fb8be04a9a7685606311d18c65800504bccf261551968ac74bffd42e/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/></a> 
 <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="40" height="30"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
